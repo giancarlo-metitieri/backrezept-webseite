@@ -3,3 +3,23 @@ color: white;
 text-decoration: none;
 border-radius: 1em;
 }
+.blocks {
+    background-color: rgb(160, 201, 217);
+    color: rgba(75, 75, 75, 1);
+    height: 100%; 
+    margin-bottom: 1em;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container-save {
+  position: relative;
+  text-align: center;
+  color: white;
+}
