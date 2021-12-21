@@ -23,3 +23,27 @@ border-radius: 1em;
   text-align: center;
   color: white;
 }
+.backgroundimage{
+    background-image: url("applejalousy.jpeg");
+    background-size: cover;
+   }
+.backgroundimage2{
+    background-image: url("sample\ images/sampleimage1.jpg");
+    background-size: cover;
+   }
+
+.backgroundimage3{
+    background-image: url("sample\ images/sampleimage2.jpg");
+    background-size: cover;
+   }
+
+.zoomonhover {
+    transition: transform .2s
+}
+.zoomonhover:hover {
+    transform: scale(1.05);
+}
+
+.descriptionimage {
+font-size: 0.4em;
+}
