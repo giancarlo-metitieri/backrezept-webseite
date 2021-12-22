@@ -24,16 +24,16 @@ border-radius: 1em;
   color: white;
 }
 .backgroundimage{
-    background-image: url("applejalousy.jpeg");
+    background-image: url("../sample\ images/applejalousy.jpeg");
     background-size: cover;
    }
 .backgroundimage2{
-    background-image: url("sample\ images/sampleimage1.jpg");
+    background-image: url("../sample\ images/sampleimage1.jpg");
     background-size: cover;
    }
 
 .backgroundimage3{
-    background-image: url("sample\ images/sampleimage2.jpg");
+    background-image: url("../sample\ images/sampleimage2.jpg");
     background-size: cover;
    }
 
